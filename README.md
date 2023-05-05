@@ -35,7 +35,7 @@ The steps required to install this project are as listed:
 
 4) *Can also install and open through Google taskbar*
 
-## Screenshot ##
+## Screenshots ##
 ![Screenshot 2023-05-04 175713](https://user-images.githubusercontent.com/119367684/236359417-8ab18a69-47dd-4289-b1bd-bc1f58034e61.png)
 ![Screenshot 2023-05-04 175725](https://user-images.githubusercontent.com/119367684/236359425-49d7c69d-9ef5-4908-8da6-af503b5b30c5.png)
 ![Screenshot 2023-05-04 175756](https://user-images.githubusercontent.com/119367684/236359431-6107ca60-70e4-4242-b1cc-e46a653a5965.png)
